@@ -16,7 +16,6 @@ class SpotifyClient:
                 redirect_uri='https://www.google.com',
             )
         )
-
         self._keyboard = Controller()
 
     @staticmethod
